@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gohk007.github.io/monster-rollodex/static/css/main.c16ad2f6.chunk.css",
+    "main.js": "/gohk007.github.io/monster-rollodex/static/js/main.1dc73ed1.chunk.js",
+    "main.js.map": "/gohk007.github.io/monster-rollodex/static/js/main.1dc73ed1.chunk.js.map",
+    "runtime-main.js": "/gohk007.github.io/monster-rollodex/static/js/runtime-main.b8fd678a.js",
+    "runtime-main.js.map": "/gohk007.github.io/monster-rollodex/static/js/runtime-main.b8fd678a.js.map",
+    "static/js/2.e499a0ca.chunk.js": "/gohk007.github.io/monster-rollodex/static/js/2.e499a0ca.chunk.js",
+    "static/js/2.e499a0ca.chunk.js.map": "/gohk007.github.io/monster-rollodex/static/js/2.e499a0ca.chunk.js.map",
+    "index.html": "/gohk007.github.io/monster-rollodex/index.html",
+    "precache-manifest.5141c0bd93b8722b0bc483eb26ea3d8b.js": "/gohk007.github.io/monster-rollodex/precache-manifest.5141c0bd93b8722b0bc483eb26ea3d8b.js",
+    "service-worker.js": "/gohk007.github.io/monster-rollodex/service-worker.js",
+    "static/css/main.c16ad2f6.chunk.css.map": "/gohk007.github.io/monster-rollodex/static/css/main.c16ad2f6.chunk.css.map",
+    "static/js/2.e499a0ca.chunk.js.LICENSE.txt": "/gohk007.github.io/monster-rollodex/static/js/2.e499a0ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8fd678a.js",
+    "static/js/2.e499a0ca.chunk.js",
+    "static/css/main.c16ad2f6.chunk.css",
+    "static/js/main.1dc73ed1.chunk.js"
+  ]
+}
